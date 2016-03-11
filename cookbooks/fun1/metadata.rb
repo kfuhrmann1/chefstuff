@@ -5,3 +5,5 @@ license 'all_rights'
 description 'Installs/Configures fun1'
 long_description 'Installs/Configures fun1'
 version '0.1.0'
+
+depends 'apt'
