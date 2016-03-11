@@ -9,3 +9,6 @@ validation_client_name   "kylefinc-validator"
 validation_key           "#{current_dir}/kylefinc-validator.pem"
 chef_server_url          "https://api.chef.io/organizations/kylefinc"
 cookbook_path            ["#{current_dir}/../cookbooks"]
+cookbook_copywright      "Kyle Fuhrmann"
+cookbook_license         "apachev2"
+cookbook_email           "kylefuhrmann1@gmail.com"
